@@ -119,6 +119,9 @@ h1 em, h2 em { color: var(--blue); font-weight: 500; }
 .closing-inner > p:not(.eyebrow) { max-width: 590px; margin: 0 auto 25px; color: #d3dcde; font-size: 14px; }
 .button-light { background: #f7f7f3; color: var(--blue-dark); }
 .button-light:hover { background: #e7e9e3; }
+.profile-links { display: flex; justify-content: center; align-items: center; gap: 26px; flex-wrap: wrap; }
+.profile-secondary { color: #f2f4f0; font-size: 13px; font-weight: 700; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.profile-secondary span { margin-left: 6px; color: #dfc79c; }
 .site-footer { background: #142b35; color: #d7dfdf; }
 .footer-inner { min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
 .footer-inner .wordmark { color: white; }
