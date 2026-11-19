@@ -1,0 +1,7 @@
+# Keep CVs and other PDF documents out of the public site and repository.
+*.pdf
+
+# Local development / editor files
+.DS_Store
+Thumbs.db
+.vscode/
